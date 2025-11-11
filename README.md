@@ -25,8 +25,6 @@ git clone https://github.com/your-username/LLM-Phish-Buster.git
 cd LLM-Phish-Buster
 ```
 
-> 📝 *Replace `your-username` with your actual GitHub username.*
-
 ---
 
 ## 🧩 3. Create a Virtual Environment
