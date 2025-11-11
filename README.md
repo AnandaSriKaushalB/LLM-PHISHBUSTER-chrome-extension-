@@ -19,7 +19,7 @@ Before starting, make sure you have the following installed on your system:
 
 ```bash
 # Clone the GitHub repository
-git clone https://github.com/your-username/LLM-Phish-Buster.git
+git clone https://github.com/AnandaSriKaushalB/LLM-PHISHBUSTER-chrome-extension-
 
 # Navigate into the project folder
 cd LLM-Phish-Buster
